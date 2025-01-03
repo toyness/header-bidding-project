@@ -1,0 +1,11 @@
+{
+    "name": "header-bidding-solution",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "webpack",
+      "start": "webpack serve"
+    },
+    "dependencies": {
+      "prebid.js": "^7.0.0"
+    }
+  }  
