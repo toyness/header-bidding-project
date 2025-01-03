@@ -22,5 +22,5 @@ This project implements a header bidding solution using Prebid.js to optimize ad
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/header-bidding-project.git](https://github.com/toyness/header-bidding-project)
+   git clone https://github.com/toyness/header-bidding-project
    cd header-bidding-project
